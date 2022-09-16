@@ -1,4 +1,4 @@
-package Demo;
+package com.shutterfly.web.framework;
 
 public class InputSanitizationFilter {
     //DEMO FILE - FOR CODE THEFT DETECTION
